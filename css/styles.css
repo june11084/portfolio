@@ -1,0 +1,53 @@
+h1 {
+  font-family: sans-serif;
+  text-decoration-line: underline;
+}
+h3 {
+  text-decoration-line: underline;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  font-family: serif;
+}
+p {
+  padding-left:0px;
+  margin-top: 0px;
+}
+.bio{
+  padding-left:20px;
+}
+.bio p{
+  font-size: 15px;
+  text-indent: 2.0em;
+}
+body {
+  background-color: #ffffff;
+  background-color: #f6f6f6;
+  margin: 5px;
+  padding: 5px;
+}
+.main {
+    padding: 10px;
+    padding-top: 5px;
+    margin-bottom: 160px;
+    margin-right:inherit;
+    background-color: #f6f6f6;
+    border: 1px solid #a7d7f9;
+    border-top-color: rgb(167, 215, 249);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(167, 215, 249);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(167, 215, 249);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(167, 215, 249);
+    border-left-style: solid;
+    border-left-width: 1px;
+  }
+.important{
+  font-family: fantasy;
+  text-decoration: underline;
+  color: purple;
+}
