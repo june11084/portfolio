@@ -11,7 +11,7 @@ Setup:
 2. use the command $ git clone "https://github.com/june11084/portfolio.git"
 3. To open portfolio in atom, use "cd portfolio" , then use "atom ."
 
-gh-pages:
+gh-pages:https://github.com/june11084/portfolio/tree/gh-pages
 
 Copyright <2017> <Jun Li>
 
